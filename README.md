@@ -1,10 +1,10 @@
 # InnoHub
 InnoHub is a web application designed for a software solution.This application leverages [Vue.js, Vuetify, and Css/ Scss] to provide a responsive and user-friendly experience. It fetch data from a dummy api for insights component.
 
-# Responsive Design: Optimized for all screen sizes with Vuetify.
-# Dynamic Content: Includes sections such as insights, contact forms, and more.
-# Form Validation: Contact forms with real-time validation.
-# Routing: Utilizes Vue Router for seamless page transitions.
+Responsive Design: Optimized for all screen sizes with Vuetify.
+Dynamic Content: Includes sections such as insights, contact forms, and more.
+Form Validation: Contact forms with real-time validation.
+Routing: Utilizes Vue Router for seamless page transitions.
 
 # Getting Started
 These instructions will help you set up and run the project locally.
