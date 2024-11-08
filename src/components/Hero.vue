@@ -1,3 +1,8 @@
+<!--
+@Description -- Hero.vue
+This component is responsible displaying top Hero Section Background image, overlay text and animations.
+-->
+
 <template>
     <v-container fluid class="hero-container" id="home">
       <!-- Hero Section with Parallax or Fade-in Effect -->

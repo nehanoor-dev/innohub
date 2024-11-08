@@ -1,3 +1,8 @@
+<!--
+@Description -- ServiceCard.vue
+This component is responsible displaying service cards.
+-->
+
 <template id="solutions">
   <v-container class="py-5 main" id="solutions">
     <!-- Solutions Section Title -->

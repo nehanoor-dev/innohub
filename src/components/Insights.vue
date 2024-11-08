@@ -1,3 +1,7 @@
+<!--
+@Description -- Insights.vue
+This component is responsible for desplaying Latest Insights byt fetching data from dummy API.
+-->
 <template>
   <v-container class="py-5 my-10" id="insights">
     <!-- Insights Section Title -->

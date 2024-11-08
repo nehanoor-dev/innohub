@@ -1,3 +1,9 @@
+<!--
+@Description -- Contact.vue
+This component is responsible for Contact form.
+All from validation are done. When form submited it would display a confirmation message.
+-->
+
 <template>
   <div id="contact">
     <v-container fluid class="py-10">

@@ -1,3 +1,9 @@
+<!--
+@Description -- Header.vue
+This component is responsible displaying logo and navigation links. Also scrollable functionality has been
+also done here.
+-->
+
 <template>
   <v-app class="navbar">
     <v-app-bar app elevation="0" class="custom-navbar">
